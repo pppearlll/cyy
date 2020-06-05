@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.txt
+*.yaml
+*.db
+*.ini
+*.ui
+# Distribution / packaging
+*.DS_store
+.idea/
